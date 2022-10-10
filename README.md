@@ -1,2 +1,1 @@
-# gayathri-anisetty
-about project
+# portfolio
